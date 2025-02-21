@@ -6,7 +6,7 @@ hiredis==3.1.0  # https://github.com/redis/hiredis-py
 
 # Django
 # ------------------------------------------------------------------------------
-django==5.0.12  # pyup: < 5.1  # https://www.djangoproject.com/
+django==5.1.6  # pyup: < 5.1  # https://www.djangoproject.com/
 django-environ==0.12.0  # https://github.com/joke2k/django-environ
 django-model-utils==5.0.0  # https://github.com/jazzband/django-model-utils
 django-allauth[mfa]==65.4.1  # https://github.com/pennersr/django-allauth
